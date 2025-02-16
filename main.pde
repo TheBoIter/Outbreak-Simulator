@@ -10,7 +10,7 @@ Black box: Shopping centre
 
 Blue dot: Healthy/Suspectible
 Red dot: Infected & showing symtoms. Will be taken to the quarantine after a certain time
-Orange dot: Infected, but not showing symtoms (they still spread it, but not as much)
+Orange dot: Infected, but not showing symptoms (they still spread it, but not as much)
 Green dot: Recovered & immune
 Black dot: Dead
 
